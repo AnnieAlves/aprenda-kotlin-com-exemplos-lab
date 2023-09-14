@@ -1,4 +1,17 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+# Resolução do Desafio Kotlin da DIO
+
+Essa é a minha abordagem para a solução do desafio Kotlin da DIO, do BootCamp Santander Mobile com Android e Kotlin. 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+README original com as metas do desafio:
+<br>
+<br>
+
+#  Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
 
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
 
